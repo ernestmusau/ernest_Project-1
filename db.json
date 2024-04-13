@@ -1,0 +1,8 @@
+{
+    "properties": [
+      { "id": 1, "title": "Luxury Apartment", "price": "$500,000", "image": "Assets/apartment.jpg" },
+      { "id": 2, "title": "Cozy Home", "price": "$300,000", "image": "Assets/cozy.jpeg" },
+      { "id": 3, "title": "Modern Villa", "price": "$1,200,000", "image": "Assets/villa.jpg" }
+    ]
+  }
+  
