@@ -29,6 +29,7 @@ document.addEventListener('DOMContentLoaded', function() {
     // Simulated booking function
     function bookProperty(id) {
       alert(`Property with ID ${id} booked successfully!`);
+      
     }
   });
   
